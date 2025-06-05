@@ -13,7 +13,6 @@
 
 ### 🛠️ Languages & Tools
 
-
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -25,7 +24,8 @@
 ---
 
 ### 🔥 My Work Preview
+
 <p align="left">
-  <img src="https://github.com/your-username/your-repo/blob/main/animated1.gif?raw=true" alt="Animated Project 1" width="300"/>
-  <img src="https://github.com/your-username/your-repo/blob/main/animated2.gif?raw=true" alt="Animated Project 2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/4c2372b8-4c41-4954-b71c-ec2997aca390" alt="Project Screenshot 1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/798781bb-f488-4e3d-b472-37eb5f06f33e" alt="Project Screenshot 2" width="300"/>
 </p>
