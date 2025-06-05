@@ -23,9 +23,12 @@
 
 ---
 
-### 🔥 My Work Preview
+---
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/4c2372b8-4c41-4954-b71c-ec2997aca390" alt="Project Screenshot 1" width="300"/>
-  <img src="https://github.com/user-attachments/assets/798781bb-f488-4e3d-b472-37eb5f06f33e" alt="Project Screenshot 2" width="300"/>
+### 🧠 Just for Fun & Aesthetics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Developer Working" width="350" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" width="450" height="300px"/>
 </p>
+
