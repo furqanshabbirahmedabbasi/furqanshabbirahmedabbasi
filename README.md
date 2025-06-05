@@ -25,11 +25,7 @@
 ---
 
 ### 🔥 My Work Preview
-
 <p align="left">
-<img src="https://github.com/your-username/your-repo/blob/main/ghostedcat.gif?raw=true" width="300" alt="Ghosted VPN Hacker Cat"/>
-![GhostedvpnHackerCatGIF](https://github.com/user-attachments/assets/6fbfd23f-6a69-4532-8365-e05844ce2eff)
-
-
-  <img src="https://github.com/user-attachments/assets/798781bb-f488-4e3d-b472-37eb5f06f33e" alt="Project Screenshot 2" width="300"/>
+  <img src="https://github.com/your-username/your-repo/blob/main/animated1.gif?raw=true" alt="Animated Project 1" width="300"/>
+  <img src="https://github.com/your-username/your-repo/blob/main/animated2.gif?raw=true" alt="Animated Project 2" width="300"/>
 </p>
