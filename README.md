@@ -1,4 +1,4 @@
-## Hi 👋, I'm Furqan Shabbir Ahmed Abbasi
+## Hi 👋, I'm Furqan Shabbir 12 male 
 
 ### 👨‍💻 About Me
 
@@ -7,7 +7,7 @@
 - ⚒️ Working on some **Awesome Projects**
 - 💬 Looking to collaborate on innovative and impactful ideas
 - 📫 Reach me at: **furqanshabbir321@gmail.com**
-- ⚡ Fun Fact: I'm pretty funny 😋😅
+- ⚡ Fun Fact: I'm pretty funny 😅😅
 
 ---
 
